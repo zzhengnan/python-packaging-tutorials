@@ -1,0 +1,6 @@
+setup.py
+alpha/__init__.py
+does_this_help.egg-info/PKG-INFO
+does_this_help.egg-info/SOURCES.txt
+does_this_help.egg-info/dependency_links.txt
+does_this_help.egg-info/top_level.txt
